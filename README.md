@@ -1,16 +1,16 @@
-## Hi there 👋
+`⋊> ~ vr gear`
+```
 
-<!--
-**Fx4n/Fx4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vrchat: 
+- Linux cachyos
+- ALVR/WivRn
+- ge-proton-10-26-rtsp20
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+tracking:
+- quest pro, quest 2, Valve Index
+- base-station-2.0 x5 + vive-tracker-3.0 x7
+- slimevr x5, babble-face-tracker x2
+- patched nrf52840's as dongles
+- asus-rt-ax86u-proc
+```
+  <sub><sup>Would you like to have some tech with me uwu</sup></sub>
