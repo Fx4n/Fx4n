@@ -1,6 +1,5 @@
 `⋊> ~ vr gear`
 ```
-
 vrchat: 
 - Linux cachyos
 - ALVR/WivRn
