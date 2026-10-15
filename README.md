@@ -1,4 +1,4 @@
-VR Gear:
+VR Gear
 ```
 vrchat: 
 - Linux cachyos
